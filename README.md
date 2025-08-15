@@ -1,27 +1,8 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shashank%20Shukla&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
-</div>
+# Shashank Shukla
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=DevOps+%26+SRE+Architect;Cloud+Infrastructure+Specialist;Backend+Engineering+Expert;Kubernetes+%26+Terraform+Certified;Building+Scalable+Systems+%40+Scale" alt="Typing SVG" />
-</div>
+**Senior DevOps Engineer | Cloud Infrastructure Architect | Site Reliability Engineering**
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sh-shukla&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sh-shukla?style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Followers" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50"/>
-  <h2>🎯 Engineering Excellence Through Automation</h2>
-</div>
-
-<p align="center">
-  <em>"Transforming complex infrastructure challenges into elegant, automated solutions"</em><br>
-  <strong>🏗️ Architect of Resilient Systems | 🚀 Performance Optimization Specialist | 🔬 Innovation Catalyst</strong>
-</p>
+*Building resilient, scalable infrastructure that powers modern applications*
 
 <table>
 <tr>
@@ -88,29 +69,15 @@ const shashank: DevOpsEngineer = {
 </tr>
 </table>
 
-<div align="center">
-  <h3>🌐 Let's Connect & Collaborate</h3>
-  <a href="https://linkedin.com/in/shashank-shukla-b84b7a162">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:shashank.shukla1202@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
-  </a>
-  <a href="https://shashank-devops-hub.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/sh-shukla">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
-  </a>
-</div>
+## Contact
+
+- **LinkedIn**: [shashank-shukla-b84b7a162](https://linkedin.com/in/shashank-shukla-b84b7a162)
+- **Email**: shashank.shukla1202@gmail.com
+- **Portfolio**: [shashank-devops-hub.vercel.app](https://shashank-devops-hub.vercel.app)
 
 <br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
-  <h2>🛠️ Technology Arsenal & Expertise Matrix</h2>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
-</div>
+## Technical Expertise
 
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
@@ -137,59 +104,30 @@ const shashank: DevOpsEngineer = {
 
 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
-  <h2>🏆 Engineering Impact & Achievements</h2>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
-</div>
+## Professional Experience
 
-<table>
-<tr>
-<td width="33%" align="center">
+**Senior DevOps Engineer** @ Nielsen (2025 - Present)
+- Consolidated 20+ AWS ALBs achieving 95% cost reduction
+- Built AI-powered DevOps documentation reducing support tickets by 60%
+- Optimized Karpenter node scaling for improved cost efficiency
 
-### 💰 Cost Optimization
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100"/>
+**DevOps Engineer** @ Conga (2021 - 2025)
+- Led 6-engineer DevOps team establishing deployment standards
+- Built SaaS API platform with 60+ FastAPI endpoints
+- Implemented KEDA autoscaling and workflow orchestration
+- Reduced MTTR by 50% through comprehensive observability
 
-**95% AWS Cost Reduction**
+## Key Achievements
 
-*Intelligent ALB consolidation strategy*
+- **95% AWS Cost Reduction** through intelligent ALB consolidation
+- **500+ Concurrent Processes** in data migration platform
+- **40% Deployment Time Reduction** with Helm chart optimization
+- **50% MTTR Improvement** through observability implementation
 
-</td>
-<td width="33%" align="center">
+## Certifications
 
-### 🤖 AI-Powered Solutions
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95f376a5b83c" width="100"/>
-
-**60% Support Reduction**
-
-*AI-driven documentation platform*
-
-</td>
-<td width="33%" align="center">
-
-### ⚡ High-Performance Systems
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d33-987a-c560d5dccc21" width="100"/>
-
-**500+ Concurrent Processes**
-
-*Scalable data migration orchestration*
-
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-
-### 🚀 Deployment Excellence
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100"/>
-
-**40% Time Reduction**
-
-*Helm chart template optimization*
-
-</td>
-<td width="33%" align="center">
-
-### 📊 Observability Mastery
+- Certified Kubernetes Administrator (CKA)
+- HashiCorp Terraform Associatervability Mastery
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="100"/>
 
 **50% MTTR Improvement**
