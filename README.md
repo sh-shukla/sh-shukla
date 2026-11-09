@@ -1,43 +1,24 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Shashank%20Shukla&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</div>
+# Shashank Shukla
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+DevOps+Engineer;Cloud+Infrastructure+Architect;Building+Scalable+Infrastructure" alt="Typing SVG" />
-</div>
+**Senior DevOps Engineer** — 4.5+ years across cloud architecture, SRE and infrastructure automation.
 
-<div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="250"/>
-</div>
+🌐 **[shashank-devops-hub.vercel.app](https://shashank-devops-hub.vercel.app)** · [LinkedIn](https://www.linkedin.com/in/shashank-shukla-b84b7a162) · [shashank.shukla1202@gmail.com](mailto:shashank.shukla1202@gmail.com)
 
-## 🚀 About
+## Featured work
 
-**Senior DevOps Engineer @ Nielsen** | 4.5+ years experience  
-Specializing in Cloud Architecture, SRE, and Infrastructure Automation
+| Project | What it is |
+|---|---|
+| **[ClipStack](https://github.com/sh-shukla/ClipStack)** | Native macOS clipboard manager — Swift menu-bar app, global hotkey search, guided permission onboarding, zero dependencies |
+| **[scalable-3tier-architecture](https://github.com/sh-shukla/scalable-3tier-architecture)** | Production-style 3-tier Docker architecture: reverse proxy, app layer and database with network isolation, scaling and hardening |
+| **[portfolio](https://github.com/sh-shukla/portfolio)** | Portfolio site — React, TypeScript, Tailwind, Vite, deployed on Vercel |
+| **[income-tax-calculator](https://github.com/sh-shukla/income-tax-calculator)** | Python CLI for Indian income tax (new regime) |
 
-## 🛠️ Tech Stack
+## Toolbox
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+AWS · Kubernetes · Terraform · Docker · Python · Go · Jenkins · GitHub Actions · Prometheus & Grafana
 
-## 🎓 Certifications
+**Certifications:** CKA — Certified Kubernetes Administrator · HashiCorp Terraform Associate
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Kubernetes-CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA"/>
-  <img src="https://img.shields.io/badge/HashiCorp-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-</div>
+---
 
-## 📞 Connect
-
-<div align="center">
-  <a href="https://linkedin.com/in/shashank-shukla-b84b7a162"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:shashank.shukla1202@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://shashank-devops-hub.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing+together" alt="Footer" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</div>
+<sub>Always happy to talk infrastructure, reliability and automation — reach me on [LinkedIn](https://www.linkedin.com/in/shashank-shukla-b84b7a162).</sub>
