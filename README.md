@@ -15,7 +15,7 @@
 **Senior DevOps Engineer** | **5+ years** building and running cloud infrastructure at scale
 Specializing in Cloud Architecture, SRE, Platform Engineering and Infrastructure Automation
 
-- 🌐 Portfolio — **[shashank-devops-hub.vercel.app](https://shashank-devops-hub.vercel.app)**
+- 🌐 Portfolio — **[shashank-devops-hub.vercel.app](https://sh-shukla.github.io/portfolio/)**
 - 🔭 Currently building **[zombiewatch](https://github.com/sh-shukla/zombiewatch)** — a Kubernetes operator that hunts undead cluster resources
 - 💬 Talk to me about Kubernetes, Terraform, cloud cost optimization and incident response
 
@@ -52,7 +52,7 @@ Specializing in Cloud Architecture, SRE, Platform Engineering and Infrastructure
 <div align="center">
   <a href="https://linkedin.com/in/shashank-shukla-b84b7a162"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:shashank.shukla1202@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://shashank-devops-hub.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://sh-shukla.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </div>
 
 <div align="center">
